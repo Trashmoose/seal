@@ -134,7 +134,7 @@
 <rect x="0" y="0" width="8" height="8" style="fill:rgb(0%,50.196078%,0%);fill-opacity: 0.2;stroke:none;"/>
 <path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(20%,60%,40%);stroke-opacity: 0.2;stroke-miterlimit:10;" d="M 0 4 L 8 4 "/>
 </g>
-<pattern id="pattern0" patternUnits="userSpaceOnUse" width="8" height="8">
+<pattern id="pattern0" patternUnits="userSpaceOnUse" width="8" height="8" style="&#10;    transform: rotate(30deg);&#10;">
 <use xlink:href="#surface726080"/>
 </pattern>
  
