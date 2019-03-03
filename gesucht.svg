@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="width: 500px; height:20pt">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 50">
 	<defs>
 	<style type="text/css">
       <![CDATA[
@@ -23,6 +23,7 @@
       ]]>
     </style>
 	</defs>
+	<rect x="0" y="0" width="500px" height="50px" fill="#0000"/>
   <text x="0" y="1em" style="opacity: 1">Gesucht wegen</text>
   <text x="130px" y="1em" class="animated-text" style="opacity: 1">diverser leichter Diebstähle.</text>
   <text x="130px" y="1em" class="animated-text" style="animation-delay: 2s">Angehörigkeit subversiver Vereinigungen.</text>
