@@ -922,100 +922,139 @@
      class="animated-text"
      style="animation-delay: 16s; font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      transform="translate(122.68475,-19.096359)"
-     aria-label="Widerstand gegen die Staatsgewalt.">
+     aria-label="Widerstandes gegen die Staatsgewalt.">
+<path
+       d="m -9.59375,27.068359 v -1 h -1 v -6 h 2 v 4 h 1 v -4 h 1 v 4 h 1 v -4 h 2 v 6 h -1 v 1 h -1 v -1 h -1 v -1 h -1 v 1 h -1 v 1 z"
+       style=""
+       id="path5280" />
     <path
-       id="path6888"
-       d="m -9.59375,27.068359 v -1 h -1 v -6 h 2 v 4 h 1 v -4 h 1 v 4 h 1 v -4 h 2 v 6 h -1 v 1 h -1 v -1 h -1 v -1 h -1 v 1 h -1 v 1 z" />
+       d="m 0.40625,21.068359 v -1 h 2 v 1 z m -2,6 v -1 h 2 v -3 h -1 v -1 h 3 v 4 h 2 v 1 z"
+       style=""
+       id="path5282" />
     <path
-       id="path6890"
-       d="m 0.40625,21.068359 v -1 h 2 v 1 z m -2,6 v -1 h 2 v -3 h -1 v -1 h 3 v 4 h 2 v 1 z" />
+       d="m 6.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 4 v -2 h 2 v 7 z m 1,-1 h 3 v -3 h -3 z"
+       style=""
+       id="path5284" />
     <path
-       id="path6892"
-       d="m 6.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 4 v -2 h 2 v 7 z m 1,-1 h 3 v -3 h -3 z" />
+       d="m 14.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z"
+       style=""
+       id="path5286" />
     <path
-       id="path6894"
-       d="m 14.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z" />
+       d="m 24.40625,23.068359 h 1 v 1 h -1 v 3 h -2 v -5 h 2 z m 4,-1 v 1 h -3 v -1 z"
+       style=""
+       id="path5288" />
     <path
-       id="path6896"
-       d="m 24.40625,23.068359 h 1 v 1 h -1 v 3 h -2 v -5 h 2 z m 4,-1 v 1 h -3 v -1 z" />
+       d="m 29.40625,27.068359 v -1 h 5 v -1 h -4 v -1 h -1 v -1 h 1 v -1 h 5 v 1 h -4 v 1 h 4 v 1 h 1 v 1 h -1 v 1 z"
+       style=""
+       id="path5290" />
     <path
-       id="path6898"
-       d="m 29.40625,27.068359 v -1 h 5 v -1 h -4 v -1 h -1 v -1 h 1 v -1 h 5 v 1 h -4 v 1 h 4 v 1 h 1 v 1 h -1 v 1 z" />
+       d="m 40.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z"
+       style=""
+       id="path5292" />
     <path
-       id="path6900"
-       d="m 40.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z" />
+       d="m 46.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z"
+       style=""
+       id="path5294" />
     <path
-       id="path6902"
-       d="m 46.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z" />
+       d="m 53.40625,27.068359 v -5 h 6 v 1 h 1 v 4 h -2 v -4 h -3 v 4 z"
+       style=""
+       id="path5296" />
     <path
-       id="path6904"
-       d="m 53.40625,27.068359 v -5 h 6 v 1 h 1 v 4 h -2 v -4 h -3 v 4 z" />
+       d="m 62.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 4 v -2 h 2 v 7 z m 1,-1 h 3 v -3 h -3 z"
+       style=""
+       id="path5298" />
     <path
-       id="path6906"
-       d="m 62.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 4 v -2 h 2 v 7 z m 1,-1 h 3 v -3 h -3 z" />
+       d="m 70.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z"
+       style=""
+       id="path5300" />
     <path
-       id="path6908"
-       d="m 78.40625,28.068359 v -1 h 4 v -1 h -4 v -1 h -1 v -2 h 1 v -1 h 6 v 5 h -1 v 1 z m 1,-3 h 3 v -2 h -3 z" />
+       d="m 77.40625,27.068359 v -1 h 5 v -1 h -4 v -1 h -1 v -1 h 1 v -1 h 5 v 1 h -4 v 1 h 4 v 1 h 1 v 1 h -1 v 1 z"
+       style=""
+       id="path5302" />
     <path
-       id="path6910"
-       d="m 86.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z" />
+       d="m 94.40625,28.068359 v -1 h 4 v -1 h -4 v -1 h -1 v -2 h 1 v -1 h 6 v 5 h -1 v 1 z m 1,-3 h 3 v -2 h -3 z"
+       style=""
+       id="path5304" />
     <path
-       id="path6912"
-       d="m 94.40625,28.068359 v -1 h 4 v -1 h -4 v -1 h -1 v -2 h 1 v -1 h 6 v 5 h -1 v 1 z m 1,-3 h 3 v -2 h -3 z" />
+       d="m 102.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z"
+       style=""
+       id="path5306" />
     <path
-       id="path6914"
-       d="m 102.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z" />
+       d="m 110.40625,28.068359 v -1 h 4 v -1 h -4 v -1 h -1 v -2 h 1 v -1 h 6 v 5 h -1 v 1 z m 1,-3 h 3 v -2 h -3 z"
+       style=""
+       id="path5308" />
     <path
-       id="path6916"
-       d="m 109.40625,27.068359 v -5 h 6 v 1 h 1 v 4 h -2 v -4 h -3 v 4 z" />
+       d="m 118.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z"
+       style=""
+       id="path5310" />
     <path
-       id="path6918"
-       d="m 126.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 4 v -2 h 2 v 7 z m 1,-1 h 3 v -3 h -3 z" />
+       d="m 125.40625,27.068359 v -5 h 6 v 1 h 1 v 4 h -2 v -4 h -3 v 4 z"
+       style=""
+       id="path5312" />
     <path
-       id="path6920"
-       d="m 136.40625,21.068359 v -1 h 2 v 1 z m -2,6 v -1 h 2 v -3 h -1 v -1 h 3 v 4 h 2 v 1 z" />
+       d="m 142.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 4 v -2 h 2 v 7 z m 1,-1 h 3 v -3 h -3 z"
+       style=""
+       id="path5314" />
     <path
-       id="path6922"
-       d="m 142.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z" />
+       d="m 152.40625,21.068359 v -1 h 2 v 1 z m -2,6 v -1 h 2 v -3 h -1 v -1 h 3 v 4 h 2 v 1 z"
+       style=""
+       id="path5316" />
     <path
-       id="path6924"
-       d="m 158.40625,27.068359 v -1 h -1 v -1 h 2 v 1 h 3 v -2 h -4 v -1 h -1 v -2 h 1 v -1 h 5 v 1 h 1 v 1 h -2 v -1 h -3 v 2 h 4 v 1 h 1 v 2 h -1 v 1 z" />
+       d="m 158.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z"
+       style=""
+       id="path5318" />
     <path
-       id="path6926"
-       d="m 168.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z" />
+       d="m 174.40625,27.068359 v -1 h -1 v -1 h 2 v 1 h 3 v -2 h -4 v -1 h -1 v -2 h 1 v -1 h 5 v 1 h 1 v 1 h -2 v -1 h -3 v 2 h 4 v 1 h 1 v 2 h -1 v 1 z"
+       style=""
+       id="path5320" />
     <path
-       id="path6928"
-       d="m 174.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z" />
+       d="m 184.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z"
+       style=""
+       id="path5322" />
     <path
-       id="path6930"
-       d="m 182.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z" />
+       d="m 190.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z"
+       style=""
+       id="path5324" />
     <path
-       id="path6932"
-       d="m 192.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z" />
+       d="m 198.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z"
+       style=""
+       id="path5326" />
     <path
-       id="path6934"
-       d="m 197.40625,27.068359 v -1 h 5 v -1 h -4 v -1 h -1 v -1 h 1 v -1 h 5 v 1 h -4 v 1 h 4 v 1 h 1 v 1 h -1 v 1 z" />
+       d="m 208.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z"
+       style=""
+       id="path5328" />
     <path
-       id="path6936"
-       d="m 206.40625,28.068359 v -1 h 4 v -1 h -4 v -1 h -1 v -2 h 1 v -1 h 6 v 5 h -1 v 1 z m 1,-3 h 3 v -2 h -3 z" />
+       d="m 213.40625,27.068359 v -1 h 5 v -1 h -4 v -1 h -1 v -1 h 1 v -1 h 5 v 1 h -4 v 1 h 4 v 1 h 1 v 1 h -1 v 1 z"
+       style=""
+       id="path5330" />
     <path
-       id="path6938"
-       d="m 214.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z" />
+       d="m 222.40625,28.068359 v -1 h 4 v -1 h -4 v -1 h -1 v -2 h 1 v -1 h 6 v 5 h -1 v 1 z m 1,-3 h 3 v -2 h -3 z"
+       style=""
+       id="path5332" />
     <path
-       id="path6940"
-       d="m 223.40625,26.068359 h 1 v 1 h -2 v -1 h -1 v -4 h 2 z m 2,-4 v 4 h -1 v -4 z m 3,0 v 4 h -1 v 1 h -2 v -1 h 1 v -4 z" />
+       d="m 230.40625,27.068359 v -1 h -1 v -3 h 1 v -1 h 5 v 1 h 1 v 2 h -5 v 1 h 4 v 1 z m 1,-3 h 3 v -1 h -3 z"
+       style=""
+       id="path5334" />
     <path
-       id="path6942"
-       d="m 230.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z" />
+       d="m 239.40625,26.068359 h 1 v 1 h -2 v -1 h -1 v -4 h 2 z m 2,-4 v 4 h -1 v -4 z m 3,0 v 4 h -1 v 1 h -2 v -1 h 1 v -4 z"
+       style=""
+       id="path5336" />
     <path
-       id="path6944"
-       d="m 238.40625,27.068359 v -1 h 2 v -5 h -1 v -1 h 3 v 6 h 2 v 1 z" />
+       d="m 246.40625,27.068359 v -1 h -1 v -1 h 1 v -1 h 4 v -1 h -4 v -1 h 5 v 1 h 1 v 4 z m 1,-1 h 3 v -1 h -3 z"
+       style=""
+       id="path5338" />
     <path
-       id="path6946"
-       d="m 248.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z" />
+       d="m 254.40625,27.068359 v -1 h 2 v -5 h -1 v -1 h 3 v 6 h 2 v 1 z"
+       style=""
+       id="path5340" />
     <path
-       id="path6948"
-       d="m 255.40625,27.068359 v -2 h 2 v 2 z" />
+       d="m 264.40625,27.068359 v -4 h -2 v -1 h 2 v -2 h 2 v 2 h 2 v 1 h -2 v 4 z"
+       style=""
+       id="path5342" />
+    <path
+       d="m 271.40625,27.068359 v -2 h 2 v 2 z"
+       style=""
+       id="path5344" />
   </g>
   <g
      id="flowRoot6515-8-6-6"
